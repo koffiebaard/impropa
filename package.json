@@ -1,0 +1,15 @@
+{
+  "name": "impropa",
+  "version": "1.0.0",
+  "description": "Image propagationnnn",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.9.1",
+    "express": "^4.9.8"
+  }
+}
